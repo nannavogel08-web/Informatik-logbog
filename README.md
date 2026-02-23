@@ -5,6 +5,12 @@ En logbog over hvad vi laver i informatik<br>
 # Grundforløb:
 Vi har eksperimenteret med applab, og lavet en app der kan udregne skæringspunktet mellem to linære grafer, og hældningen og skæringspunkterne med x-aksen for en 2. grads funktion, ud fra funktionsforskrifter.<br>
 
+App til grafer: https://studio.code.org/projects/applab/54a79519-914f-4cd8-b103-00308e2923bb/edit <img width="446" height="766" alt="image" src="https://github.com/user-attachments/assets/50339219-2428-440f-a664-de7cbd74b126" />
+
+<img width="449" height="760" alt="image" src="https://github.com/user-attachments/assets/8ee2b8b8-8616-4201-9f54-f96d7f897844" />
+
+
+
 Applab, gestaltlove, prototyper<br>
 
 # 1. G
