@@ -21,6 +21,53 @@ Vi prøvede os frem med en "bold" der kunne "hoppe" rundt på skærmen <br>
 Derefter udviklede vi det til flere bolde, der kunne interagere med hinanden.<br>
 <br>
 Vi lavede noget kode der lavede 3 punkter og så lavede punkter halvejs mellem punkterne, og så halvejs mellem de punkter osv. hvilket dannede Sierpinski-trekant. Jeg arbejde lidt med at få den til at få forskellige farver. (https://editor.p5js.org/Nanna0817/sketches/HnEshsXFU)<br>
+``` Her er noget kode
+ var StartX=100 
+  var StartY=350 
+  var DestX=200
+  var DestY=100
+  var Xkoordinater=[] 
+  var Ykoordinater=[] 
+
+function setup() {
+  createCanvas(400, 400);
+  background(0);
+  strokeWeight(1)
+  
+  Xkoordinater.push(200)
+  Ykoordinater.push(0)
+  
+  Xkoordinater.push(0);
+  Ykoordinater.push(400);
+  
+  Xkoordinater.push(400);
+  Ykoordinater.push(400);
+  
+  index1=((floor)(random(0, 3)))
+  StartX=Xkoordinater[index1]
+  StartY=Ykoordinater[index1]
+}
+
+function draw() {
+  
+  index2=((floor)(random(0, 3)))
+
+  
+  DestX=Xkoordinater[index2]
+  DestY=Ykoordinater[index2]
+  
+  
+  point(StartX, StartY)
+  point(DestX, DestY)
+  
+  StartX=(StartX+DestX)/2
+  StartY=(StartY+DestY)/2
+  
+  stroke(150,StartY, StartX)
+  point(StartX, StartY)
+  
+  
+}```
 <br>
 ## Kryptografi
 Vi har lært om: Symetrisk/asymetrisk kryptering, cæsarkode, RSA<br>
