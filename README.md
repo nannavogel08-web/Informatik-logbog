@@ -92,6 +92,8 @@ function draw() {
 ## Kryptografi
 Vi har lært om: Symetrisk/asymetrisk kryptering, cæsarkode, RSA<br>
 <br>
+Asymetrisk kryptering: Alle har en "private key" og en "public key". RSA er et eksempel på asymetrisk kryptering<br>
+Symetrisk kryptering: Man har samme "nøgle", så man kan kryptere med dem der også har den nøgle. Cæsar er et eksempel på symetrisk kryptering.<br>
 Vi arbejdede kort med kryptografi, hvor vi lavede en kode der kunne kryptere og dekryptere cæsar-kode (https://editor.p5js.org/Nanna0817/sketches/sOhjbX8jL)<br>
 Her er koden:
 <details>
