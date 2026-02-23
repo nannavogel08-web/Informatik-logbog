@@ -67,7 +67,8 @@ function draw() {
   point(StartX, StartY)
   
   
-}```
+}
+```
 <br>
 ## Kryptografi
 Vi har lært om: Symetrisk/asymetrisk kryptering, cæsarkode, RSA<br>
