@@ -15,6 +15,7 @@ App til grafer: https://studio.code.org/projects/applab/54a79519-914f-4cd8-b103-
 
 ### Førstegradsfunktioner
 <img width="449" height="774" alt="image" src="https://github.com/user-attachments/assets/7fc49281-325e-4ea4-9199-4c1741cfa496" />
+<br>
 ### Andengradsfunktioner
 <img width="443" height="780" alt="image" src="https://github.com/user-attachments/assets/616af6c0-bdac-4c20-9f94-447ef526298c" />
 </details>
