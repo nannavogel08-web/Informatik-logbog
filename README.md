@@ -30,6 +30,8 @@ Getsaltlovene: Principper for hvordan en hjemmeside/app skal se ud og fungere fo
 ## Programering
 Vi har lært om: Variabler, if/else statements, løkker, lister, fysiksimulering<br>
 <br>
+Vi har kort haft om flowcharts
+<br>
 Vi prøvede os frem med en "bold" der kunne "hoppe" rundt på skærmen <br>
 Derefter udviklede vi det til flere bolde, der kunne interagere med hinanden.<br>
 <br>
