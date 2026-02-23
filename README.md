@@ -80,11 +80,9 @@ function draw() {
   StartY=(StartY+DestY)/2
   
   stroke(150,StartY, StartX)
-  point(StartX, StartY)
-  
-  
-}
-```
+  point(StartX, StartY) 
+}```
+
 <br>
 
 </details>
