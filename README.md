@@ -70,11 +70,50 @@ function draw() {
 }
 ```
 <br>
+
 ## Kryptografi
 Vi har lært om: Symetrisk/asymetrisk kryptering, cæsarkode, RSA<br>
 <br>
 Vi arbejdede kort med kryptografi, hvor vi lavede en kode der kunne kryptere og dekryptere cæsar-kode (https://editor.p5js.org/Nanna0817/sketches/sOhjbX8jL)<br>
+```Her er koden:
+let message = "HEJ EMILIE";
+let nøgle = 7;
+//når der senere nævnes cipher, vil den printe noget sagt; den er ikke kode når den har ""
+let cipher = "";
+
+let alfabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZÆØÅ ";
+
+//ligesom det, der er lavet hvor der beskrives trin for trin; den regner det bare selv
+function caesar_single_character(bogstav, tal) {
+  let startIndex = alfabet.indexOf(bogstav);
+  let nytIndex = (startIndex + tal) % alfabet.length;
+  if (nytIndex < 0) nytIndex += alfabet.length;
+  let nytBogstav = alfabet[nytIndex];
+  return nytBogstav;
+}
+function caesar(besked, nummer) {
+  //laver alfabetet uendeligt
+  nummer = nummer % alfabet.length;
+  let resultat = "";
+  for (let x of besked) {
+    resultat += caesar_single_character(x, nummer);
+  }
+  return resultat;
+}
+
+function setup() {
+  console.log(message);
+  cipher = caesar(message, nøgle);
+  console.log(cipher);
+
+  //message + key = cipher, ergo må message = cipher - key
+  let dekrypteret = caesar(cipher, -nøgle);
+  console.log(dekrypteret);
+}
+console.log("KEY:" + nøgle + "->" + (nøgle % alfabet.length));
+```
 <br>
+
 ## 3D
 Vi har brugt: Fusion, Cura (Creality CR10S-pro), Bambu studio (Bambu lab P2S)<br>
 Vi har arbejdet med 3D design og 3D printning, hvor vi har brugt programmet Fusion til at designe nogle 3D modeller, og derefter printe dem på skolens 3D printere<br>
