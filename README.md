@@ -3,13 +3,13 @@ En logbog over hvad vi laver i informatik<br>
 
 
 # Grundforløb:
-Vi har arbejdet med: Applab, gestaltlove<br>
+Vi har arbejdet med: Applab, gestaltlove, prototyper<br>
 
-Vi har eksperimenteret med applab, og lavet en app der kan udregne skæringspunktet mellem to linære grafer, og hældningen og skæringspunkterne med x-aksen for en 2. grads funktion, ud fra funktionsforskrifter.<br>
+Vi har eksperimenteret med applab, og lavet en app der kan udregne skæringspunktet mellem to linære grafer, og hældningen og skæringspunkterne med x-aksen for en 2. grads funktion, ud fra funktionsforskrifter.Vi har også arbejdet en smule med prototyper, men vi har ikke lavet noget med det.<br>
 
 App til grafer: https://studio.code.org/projects/applab/54a79519-914f-4cd8-b103-00308e2923bb/edit 
 
-Getsaltlovene: Principper for hvordan en hjemmeside/app skal se ud og fungere for at være brugervenlig
+Getsaltlovene: Principper for hvordan en hjemmeside/app skal se ud og fungere for at være brugervenlig.
 
 
 # 1. G
