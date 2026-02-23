@@ -34,6 +34,9 @@ Vi prøvede os frem med en "bold" der kunne "hoppe" rundt på skærmen <br>
 Derefter udviklede vi det til flere bolde, der kunne interagere med hinanden.<br>
 <br>
 Vi lavede noget kode der lavede 3 punkter og så lavede punkter halvejs mellem punkterne, og så halvejs mellem de punkter osv. hvilket dannede Sierpinski-trekant. Jeg arbejde lidt med at få den til at få forskellige farver. (https://editor.p5js.org/Nanna0817/sketches/HnEshsXFU)<br>
+<details>
+
+<summary>Koden</summary>
 ```js
  var StartX=100 
   var StartY=350 
@@ -83,6 +86,8 @@ function draw() {
 }
 ```
 <br>
+
+</details>
 
 ## Kryptografi
 Vi har lært om: Symetrisk/asymetrisk kryptering, cæsarkode, RSA<br>
