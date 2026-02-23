@@ -9,7 +9,7 @@ Vi har eksperimenteret med applab, og lavet en app der kan udregne skæringspunk
 
 App til grafer: https://studio.code.org/projects/applab/54a79519-914f-4cd8-b103-00308e2923bb/edit 
 
-Getsaltlovene: Principper for hvordan en hjemmeside skal se ud/fungere for at være brugervenlig
+Getsaltlovene: Principper for hvordan en hjemmeside/app skal se ud og fungere for at være brugervenlig
 
 
 # 1. G
