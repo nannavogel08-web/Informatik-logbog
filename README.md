@@ -144,6 +144,14 @@ console.log("KEY:" + nøgle + "->" + (nøgle % alfabet.length));
 ## 3D
 Vi har brugt: Fusion, Cura (Creality CR10S-pro), Bambu studio (Bambu lab P2S)<br>
 Vi har arbejdet med 3D design og 3D printning, hvor vi har brugt programmet Fusion til at designe nogle 3D modeller, og derefter printe dem på skolens 3D printere<br><br>
-Her er den figur jeg lavede: <img width="1497" height="815" alt="image" src="https://github.com/user-attachments/assets/130c6a33-945e-4fbe-b49f-b5f1b19c785e" />
+Her er den figur jeg lavede: 
+<details>
+
+<summary>Tips for collapsed sections</summary>
+
+### Cylender med rumfang på 5 cm^3 
+<img width="1497" height="815" alt="image" src="https://github.com/user-attachments/assets/130c6a33-945e-4fbe-b49f-b5f1b19c785e" />
+
+</details>
 
 <br>
