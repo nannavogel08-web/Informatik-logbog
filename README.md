@@ -37,6 +37,7 @@ Vi lavede noget kode der lavede 3 punkter og så lavede punkter halvejs mellem p
 <details>
 
 <summary>Koden</summary>
+
 ```js
  var StartX=100 
   var StartY=350 
@@ -81,7 +82,8 @@ function draw() {
   
   stroke(150,StartY, StartX)
   point(StartX, StartY) 
-}```
+}
+```
 
 <br>
 
