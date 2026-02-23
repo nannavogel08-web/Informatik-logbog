@@ -94,7 +94,11 @@ Vi har lært om: Symetrisk/asymetrisk kryptering, cæsarkode, RSA<br>
 <br>
 Vi arbejdede kort med kryptografi, hvor vi lavede en kode der kunne kryptere og dekryptere cæsar-kode (https://editor.p5js.org/Nanna0817/sketches/sOhjbX8jL)<br>
 Her er koden:
-``` js
+<details>
+
+<summary>Koden</summary>
+
+```js
 let message = "HEJ EMILIE";
 let nøgle = 7;
 //når der senere nævnes cipher, vil den printe noget sagt; den er ikke kode når den har ""
@@ -131,6 +135,10 @@ function setup() {
 }
 console.log("KEY:" + nøgle + "->" + (nøgle % alfabet.length));
 ```
+
+<br>
+
+</details>
 <br>
 
 ## 3D
