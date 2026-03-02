@@ -158,3 +158,6 @@ Vi har arbejdet med 3D design og 3D printning, hvor vi har brugt programmet Fusi
 </details>
 
 <br>
+
+## Arduino
+Vi har leget rundt med Arduino, og har fået en knap, en LED og en LCD (tekst-ting) til at fungere.
