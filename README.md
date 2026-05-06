@@ -161,11 +161,12 @@ Vi har arbejdet med 3D design og 3D printning, hvor vi har brugt programmet Fusi
 
 ## Arduino
 Vi har leget rundt med Arduino, og har fået en knap, en LED og en LCD (tekst-ting) til at fungere.
+Vi har lavet et fungerende spil meyer (kode fra projektet på Githubben)
 
 
 ## Droner
 Man slutter sig til dronen via et wifi-signal den udsender, og derfra kan man sende kode til den via et python script. vi prøvede også at få scratch til at virke  men det kunne vi ikke. Vi har derfor indtil videre (mens jeg skriver) fået dronen til at virke med tastatur, og tilmed med joysticks koblet den op på en arduino. Vi har også designet en kontroller i fusion, som vi dog ikke har printet endnu.
-### blokdiagram 
-(Et diagram der viser hvad der sender til hvad, og kan ses på vores miro), 
-### trelags-arkitektur 
-(Der er et præsentationslag, et logiklag og et datalag. præsentationslaget er fx input fra brugeren og grafik udaftil. logiklaget er fx at lave beregninger eller sådan noget baseret på inputs og tilsvarende data. datalaget er sjovt nok der hvor dataen ligger, men den sender også data til logiklaget når nødvendigt.) Ting som disse kan findes på vores fælles github som hedder tello-drone.
+### Blokdiagram 
+Et diagram der viser hvad der sender til hvad, og kan ses på vores miro
+### Trelags-arkitektur 
+Der er et præsentationslag, et logiklag og et datalag. præsentationslaget er fx input fra brugeren og grafik udaftil. logiklaget er fx at lave beregninger eller sådan noget baseret på inputs og tilsvarende data. datalaget er sjovt nok der hvor dataen ligger, men den sender også data til logiklaget når nødvendigt. Ting som disse kan findes på vores fælles github som hedder tello-drone.
